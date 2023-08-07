@@ -14,13 +14,13 @@
  *= require_self
  */
 .yellow {
-  background-color: #F7E987;
+  background-color: lightyellow;
 }
 
 .display {
-  border: 10px;
-  border-left-color: gray;
+  border-left: 10px solid lightgray;
   padding: 5px;
+  margin-bottom: 20px;
 }
 
 .link {
